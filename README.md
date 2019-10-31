@@ -35,7 +35,9 @@ Iterating over Objects using a for in loop.
 ## HTML and `.html` files
 HTML stands for **H**yper**t**ext **M**arkup **L**anguage and is responsible for defining the **structure and content** of a website. 
 
-To create a new website, we create new `.html` files. HTML files can be created in any text editor. Typically a home page will be created with the name `index.html`. Every `.html` file starts with the HTML code below:
+To create a new website, we create new `.html` files. HTML files can be created in any text editor. Typically a home page will be created with the name `index.html`. 
+
+Every `.html` file starts with the HTML code below:
 
 ```html
 <DOCTYPE !HTML>
